@@ -5,6 +5,6 @@
 
 Download  sudoku.zip folder -> unzip the folder -> Go to Executable File folder -> Locate the File Name sudoku.exe -> double click it to run
 
-Atharva Deshmukh
-Roll No. - 210231
-Indian Institute of Technology Kanpur
+Atharva Deshmukh.
+Roll No. - 210231.
+Indian Institute of Technology Kanpur.
